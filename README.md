@@ -14,3 +14,5 @@ https://zenodo.org/records/7754768
 
 https://github.com/wenzhengzeng/MPEblink?tab=readme-ov-file
 
+Nvidia
+Jetson Platform and isaac sim
