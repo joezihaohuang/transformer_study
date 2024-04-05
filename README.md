@@ -19,9 +19,9 @@ Jetson Platform and isaac sim
 
 
 
-https://ronxin.github.io/wevi/
+word embedding visual inspector: https://ronxin.github.io/wevi/
 
-
+![alt text](Capture8.PNG "word embedding visual inspector")
 
 tokenization is before word embedding
 
