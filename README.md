@@ -29,7 +29,7 @@ words embedding - giving vector to each word in the sentence
 
 i    -> 1,2,6,3,6\
 like -> 5,6,1,3,6\
-cat  -> 1,3,4,5,6\
+cat  -> 1,3,4,5,6
 
 case 1
 
@@ -40,6 +40,7 @@ Then we use CNN or RNN to process the word embedding result
 kernal (filter) need to be different! like for case 1 (the kernals have to cover the full word)
 
 kernal example
+
 [1,2,3,4,5]\
 [1,2,3,4,5]\
 [1,2,3,4,5]
