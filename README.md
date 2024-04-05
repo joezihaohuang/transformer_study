@@ -40,8 +40,8 @@ Then we use CNN or RNN to process the word embedding result
 kernal (filter) need to be different! like for case 1 (the kernals have to cover the full word)
 
 kernal example
-[1,2,3,4,5]
-[1,2,3,4,5]
+[1,2,3,4,5]\
+[1,2,3,4,5]\
 [1,2,3,4,5]
 
  -> after embedding the result looks like a picture we could use CNN to processing this form of data with the special kernals
