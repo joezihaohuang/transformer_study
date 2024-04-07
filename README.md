@@ -59,3 +59,11 @@ MMMU test evaluation
 
 
 https://ollama.com/
+
+
+
+code：
+
+https://machinelearningmastery.com/transformer-models-with-attention/
+
+https://machinelearningmastery.com/training-the-transformer-model/
