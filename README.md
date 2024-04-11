@@ -71,3 +71,6 @@ https://machinelearningmastery.com/training-the-transformer-model/
 
 
 https://bbycroft.net/llm
+
+
+https://youtu.be/kCc8FmEb1nY?feature=shared
