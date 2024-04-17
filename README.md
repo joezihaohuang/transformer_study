@@ -74,3 +74,6 @@ https://bbycroft.net/llm
 
 
 https://youtu.be/kCc8FmEb1nY?feature=shared
+
+
+https://karpathy.ai/zero-to-hero.html
