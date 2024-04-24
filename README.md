@@ -77,3 +77,7 @@ https://youtu.be/kCc8FmEb1nY?feature=shared
 
 
 https://karpathy.ai/zero-to-hero.html
+
+
+
+https://github.com/openai/gpt-2-output-dataset
