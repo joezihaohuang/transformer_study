@@ -68,7 +68,7 @@ https://machinelearningmastery.com/transformer-models-with-attention/
 
 https://machinelearningmastery.com/training-the-transformer-model/
 
-
+https://github.com/rasbt/LLMs-from-scratch
 
 https://bbycroft.net/llm
 
