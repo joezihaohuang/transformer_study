@@ -68,7 +68,6 @@ https://machinelearningmastery.com/transformer-models-with-attention/
 
 https://machinelearningmastery.com/training-the-transformer-model/
 
-https://github.com/rasbt/LLMs-from-scratch
 
 https://bbycroft.net/llm
 
@@ -81,3 +80,7 @@ https://karpathy.ai/zero-to-hero.html
 
 
 https://github.com/openai/gpt-2-output-dataset
+
+
+https://github.com/rasbt/LLMs-from-scratch
+
